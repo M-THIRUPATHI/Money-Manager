@@ -1,0 +1,128 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  background-size: cover;
+  height: 100vh;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.header-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  background-size: cover;
+  height: 18vh;
+  width: 78vw;
+  border-radius: 10px;
+}
+.main-heading {
+  color: #475569;
+  font-size: 32px;
+  font-family: 'Roboto';
+  margin-left: 50px;
+}
+.main-para {
+  color: #7e858e;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-left: 50px;
+}
+.main-span-para {
+  color: #0b69ff;
+}
+.unorder-list-moneydetails {
+  display: flex;
+  flex-wrap: wrap;
+}
+.transaction-history-container {
+  display: flex;
+}
+.transaction-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 25vw;
+}
+.transaction-heading {
+  color: #475569;
+  font-size: 25px;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+.title-input-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+}
+.label {
+  color: #7e858e;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-bottom: 4px;
+}
+.input {
+  padding: 3px;
+  width: 15vw;
+  margin-bottom: 12px;
+}
+.add-button {
+  color: #ffffff;
+  background-color: #0b69ff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  margin-top: 5px;
+  margin-bottom: 4px;
+  margin-left: 15px;
+  border: 0px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.history-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 40vw;
+}
+.history-heading {
+  color: #475569;
+  font-size: 25px;
+  font-family: 'Roboto';
+  margin-left: 30px;
+}
+.title-amount-type-container {
+  display: flex;
+  margin-left: 30px;
+  border: 1px solid #cbd5e1;
+  color: #475569;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.para-padding1 {
+  padding-left: 30px;
+}
+.para-padding2 {
+  padding-left: 100px;
+}
+.para-padding3 {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.unorder-list {
+  margin-top: 0px;
+  padding-left: 30px;
+}

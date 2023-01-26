@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.container-money-list {
+  display: flex;
+  background-color: #ecfccb;
+  margin-top: 10px;
+  margin-right: 50px;
+  border-radius: 15px;
+  border: 2px solid #84cc16;
+  align-items: center;
+}
+.container-money-list1 {
+  display: flex;
+  background-color: #cffafe;
+  margin-top: 10px;
+  margin-right: 50px;
+  border-radius: 15px;
+  border: 2px solid #06b6d4;
+  align-items: center;
+}
+.container-money-list2 {
+  display: flex;
+  background-color: #ede9fe;
+  margin-top: 10px;
+  margin-right: 30px;
+  border-radius: 15px;
+  border: 2px solid #7c3aed;
+  align-items: center;
+}
+.list-image {
+  height: 12vh;
+  margin-right: 30px;
+  margin-left: 37px;
+  margin-top: 0px;
+}
+.container-amount {
+  margin-left: 20px;
+  margin-right: 60px;
+  margin-top: 10px;
+}
+.balance-para {
+  color: #7e858e;
+  font-size: 18px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+.amount-para {
+  color: #334155;
+  font-size: 27px;
+  font-family: 'Roboto';
+  margin-top: 0px;
+}

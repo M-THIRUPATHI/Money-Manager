@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list-items {
+  display: flex;
+  border: 1px solid #cbd5e1;
+  color: #7e858e;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.para-padding4 {
+  padding-left: 35px;
+}
+.para-padding5 {
+  padding-left: 110px;
+}
+.para-padding6 {
+  padding-left: 110px;
+}
+.delete-button {
+  background-color: transparent;
+  border: 0px;
+}
+.delete-image {
+  height: 3vh;
+  margin-top: 2px;
+  margin-left: 25px;
+  margin-right: 27px;
+  cursor: pointer;
+}
