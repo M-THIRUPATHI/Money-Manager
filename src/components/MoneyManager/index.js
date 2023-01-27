@@ -107,7 +107,7 @@ class MoneyManager extends Component {
                 </label>
                 <input
                   className="input"
-                  type="search"
+                  type="text"
                   id="title"
                   placeholder="TITLE"
                   onChange={this.onChangeTittle}
@@ -120,7 +120,7 @@ class MoneyManager extends Component {
                 </label>
                 <input
                   id="amount"
-                  type="search"
+                  type="text"
                   placeholder="AMOUNT"
                   className="input"
                   onChange={this.onChangeAmount}
